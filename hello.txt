@@ -6,6 +6,7 @@ Feature3修改5
 master1修改4
 master2修改4
 master3修改5
+合并远程的结果
 develop 加入 写入第一个字符串
 devleop 写入字符串2
 我将要charrypick
